@@ -1,5 +1,5 @@
 const names = require('./first-modules');
-const sayHi = require('./node')
+const sayHi = require('./noderest')
 
 
 sayHi('susan')
